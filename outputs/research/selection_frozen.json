@@ -1,0 +1,16 @@
+{
+  "frozen_at": "2026-10-15 20:12:37",
+  "primary_horizon": 30,
+  "book": [
+    "imb5",
+    "micro"
+  ],
+  "flow": [
+    "ofi_10",
+    "tfi_10",
+    "big_10",
+    "add_10"
+  ],
+  "t_gate": 3.0,
+  "pos_gate": 0.7
+}
